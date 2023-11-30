@@ -10,4 +10,4 @@ Utilizando como entrada de dados a classe Scanner que foi importada do pacote 'j
 
 Por fim o programa retorna os dados solicitados; 
 
-Foi criada um repositório remoto no GitHub e clonado para repositório local na máquina do usuário e realizados os commits de alterações no Local e os pushs para o remoto afim de que seja possível realizar contole de verão.
+Foi criada um repositório remoto no GitHub e clonado para repositório local na máquina do usuário e realizados os commits de alterações no Local e os pushs para o remoto afim de que seja possível realizar controle de verão.
