@@ -7,7 +7,7 @@ public class Contador {
 		int parametro1 = sc.nextInt();
 		System.out.println("Digite o segundo parâmetro");
 		int parametro2 = sc.nextInt();
-
+        sc.close();
         try {
             contar(parametro1, parametro2);
         } catch (ParametrosInvalidosException e) {
