@@ -3,7 +3,11 @@ public class main {
         Cliente rafael  =new Cliente();
         rafael.setNome("Rafael");
 
+        Cliente joao  =new Cliente("Joao");
+        Cliente pedro = new Cliente();
+        pedro.setNome("Pedro");
 
+        Cliente maria = new Cliente("Maria");
 
         Conta cc = new ContaCorrente(rafael);
         Conta cp = new ContaPoupanca(rafael);
